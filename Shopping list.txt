@@ -3,3 +3,5 @@ Bag
 Ball
 Soccers
 trainers
+socks
+
